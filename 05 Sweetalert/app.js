@@ -24,10 +24,10 @@ const e2=()=>{
 
 const e3=()=>{
   Swal.fire({
-      title: 'Con fondo',
+      title: 'paseme',
       width: 600,
       padding: '3em',
-      color: '#716add',
+      color: 'yellow',
       background: '#fff url(/images/trees.png)',
       backdrop: `
         rgba(0,0,123,0.4)
@@ -40,10 +40,10 @@ const e3=()=>{
 
 const e4=()=>{
   Swal.fire({
-      title: 'Fondo Direfente xd',
+      title: 'andele, paseme',
       width: 600,
       padding: '3em',
-      color: '#FF4937',
+      color: 'black',
       background: '#fff url(/images/trees.png)',
       backdrop: `
         rgba(0,0,254,0.3)
